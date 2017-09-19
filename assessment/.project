@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>assessment-master-00f8d8f59aae642e6c2cafcd484e7606bd13bd12</name>
+	<comment>Project assessment-master-00f8d8f59aae642e6c2cafcd484e7606bd13bd12 created by Buildship.</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
